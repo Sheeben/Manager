@@ -49,7 +49,7 @@ export default function About() {
               </div>
               <div className="bg-gray-50 p-4 rounded-lg">
                 <h3 className="font-semibold text-gray-900">Email</h3>
-                <p className="text-gray-600">info@yoshithainfra.in</p>
+                <p className="text-gray-600">Manojarathod99@gmail.com</p>
               </div>
             </div>
           </div>
